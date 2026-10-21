@@ -15,6 +15,7 @@ To join, open a PR adding yourself to the Contributors table below, or introduce
 
 | Name | Organization | GitHub | Since |
 |---|---|---|---|
+| Sean McDermott | UnGovr | [@smcd](https://github.com/smcd) | 2026-10-21 |
 
 ## Emeritus
 
